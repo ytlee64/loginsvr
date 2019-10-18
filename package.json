@@ -1,0 +1,22 @@
+{
+  "name": "loginsvr",
+  "version": "1.0.0",
+  "description": "login server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytlee64/loginsvr.git"
+  },
+  "keywords": [
+    "login"
+  ],
+  "author": "ytlee64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytlee64/loginsvr/issues"
+  },
+  "homepage": "https://github.com/ytlee64/loginsvr#readme"
+}
